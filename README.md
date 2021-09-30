@@ -26,6 +26,7 @@
 |-|---------|---------|-----|
 |1.| Для того, чтобы котик развернулся нам нужно взять первое событие. 1. Код: Событие. 2. Блок: Когда нажат флажок  |![image](https://user-images.githubusercontent.com/90557670/135517415-f2eec6f9-8ebf-4fd2-87ed-ca02e22b9913.png)|![image](https://user-images.githubusercontent.com/90557670/135518704-15d58892-f2c6-4cd7-a08a-6219d2932c01.png)|
 |2.| Далее в пункте движение выбираем 1. Код: Движение. 2. Блок: Перейти к: |![image](https://user-images.githubusercontent.com/90557670/135518354-a0c31f98-97a3-4fc9-a110-38863578e4aa.png)|![image](https://user-images.githubusercontent.com/90557670/135518811-c4ee64f7-b4c3-4d7b-8ddf-d9fbd67608a4.png)|
+|3.| Чтобы котик повернулся в обратном направлении вибираем 1. Код: Движение. 2. Блок: Перевернуться в направлении.|![image](https://user-images.githubusercontent.com/90557670/135521183-db6b47ec-9e0b-4291-bd08-6aece76db932.png)| ![image](https://user-images.githubusercontent.com/90557670/135521292-ad1e9acc-0a58-4878-85f0-09d450486f4d.png)|
 
 
 
@@ -34,7 +35,7 @@
 
 | № | Описание|Код|Персонаж|Поле|
 |---| --------|---|--------|----|
-|1| Для того, чтобы котик развернулся нам нужно взять 1. 
+|1|  
 
 
 
